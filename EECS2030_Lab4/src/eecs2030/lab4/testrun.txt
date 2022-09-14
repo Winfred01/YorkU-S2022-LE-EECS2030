@@ -1,0 +1,40 @@
+N=100
+Default Sort, Time spent: 0.7519 ms
+Selection-Recursive, Time spent: 0.9994 ms
+Selection-Iterative, Time spent: 0.6196 ms
+
+N=200
+Default Sort, Time spent: 0.1936 ms
+Selection-Recursive, Time spent: 1.0214 ms
+Selection-Iterative, Time spent: 1.6374 ms
+
+N=400
+Default Sort, Time spent: 0.2313 ms
+Selection-Recursive, Time spent: 2.5663 ms
+Selection-Iterative, Time spent: 3.987 ms
+
+N=800
+Default Sort, Time spent: 0.4849 ms
+Selection-Recursive, Time spent: 8.8387 ms
+Selection-Iterative, Time spent: 5.3832 ms
+
+N=1600
+Default Sort, Time spent: 1.063 ms
+Selection-Recursive, Time spent: 39.4575 ms
+Selection-Iterative, Time spent: 1.6912 ms
+
+N=3200
+Default Sort, Time spent: 2.1519 ms
+Selection-Recursive, Time spent: 122.8019 ms
+Selection-Iterative, Time spent: 3.218 ms
+
+N=6400
+Default Sort, Time spent: 2.5215 ms
+Selection-Recursive, Time spent: 118.7298 ms
+Selection-Iterative, Time spent: 13.7215 ms
+
+N=12800
+Default Sort, Time spent: 2.8964 ms
+Selection-Recursive, Time spent: 510.7136 ms
+Selection-Iterative, Time spent: 64.8693 ms
+
